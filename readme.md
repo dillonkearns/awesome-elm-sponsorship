@@ -5,6 +5,7 @@
 
 ## Profiles
 
+* Dillon Kearns - [GitHub Sponsors](https://github.com/sponsors/dillonkearns)
 * [Jeroen Engels](https://jfmengels.net/) ([GitHub](https://github.com/jfmengels/)) - [GitHub Sponsors](https://github.com/sponsors/jfmengels)
 
 
